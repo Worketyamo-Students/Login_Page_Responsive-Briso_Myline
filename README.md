@@ -6,4 +6,9 @@ Ici il s'agit de realiser le login page du site en utilisant les technologies : 
 ## Objectives
 Donner une vue facile utilisateur afin qu'ils/elles puissent se connecter a traver un compte email associer a un mot de passe.
 
-# Markdown
+## Tech Stack
+
+HTML, CSS and javascript
+
+## Authors
+- [@Kouam Brice](https://github.com/Briso10-dev)
